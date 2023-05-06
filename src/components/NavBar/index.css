@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.nav-container {
+  background-color: #ffffff30;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  padding: 30px;
+}
+.nav-img {
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.par {
+  margin: 10px;
+}

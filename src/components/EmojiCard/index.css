@@ -1,0 +1,10 @@
+/* Write your code here. */
+
+.emoji-image {
+  height: 100px;
+  width: 100px;
+  background-color: #ffffff30;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
